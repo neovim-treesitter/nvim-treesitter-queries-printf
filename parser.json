@@ -1,0 +1,8 @@
+{
+  "lang": "printf",
+  "min_version": null,
+  "max_version": null,
+  "location": null,
+  "semver": false,
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-printf"
+}
